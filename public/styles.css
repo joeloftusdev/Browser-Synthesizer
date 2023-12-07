@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+
+body{
+    font-family: 'Orbitron', sans-serif;
+    background-color: rgb(148, 30, 30);
+    height: 100%;
+    overflow-y: hidden;
+}
+
+
+div{
+color: black;
+background-color: rgb(97, 116, 97);
+
+}
+
+#start-button {
+  background-color: green;
+}
+  
+#stop-button {
+  background-color: red;
+}
+
+#homeImg {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+  }
+
+.oscillator-icon{
+    max-width: 48px;
+    padding-bottom: 60px;
+}
+
+
+.keyboard{
+  display: block;
+}
+
+
+@media (max-device-width: 960px) {
+  .keyboard{display: none;}
+}
+
+#mobile{
+  display: none;
+  
+}
+
+@media (max-device-width: 960px) {
+  #mobile{display: block;}
+}
+
+
