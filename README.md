@@ -1,5 +1,4 @@
 # Browser-Synthesizer
-Web Browser Synth 
 
 ![synthgit](https://github.com/joeloftusdev/Browser-Synthesizer/assets/152509645/a198f648-3ebb-442a-9dfc-f0dfc6c80ffd)
 
