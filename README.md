@@ -15,3 +15,4 @@ Available to play here https://synth-joeloftusdev-867ee7294efc2e8f42f3f021545158
 ## FYI
 
 This is not yet responsive and only works on a desktop. GUI is a work in progress and needs some TLC.
+Only tested in Firefox and Chrome.
